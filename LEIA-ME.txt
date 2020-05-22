@@ -1,1 +1,1 @@
-1 - Padroniação de código e root import
+1 - Padronização de código e root import

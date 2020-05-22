@@ -4,7 +4,7 @@ export const Container = styled.View`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.95);
+  background-color: #0b0b0b;
   max-height: 80px;
   padding: 12px;
 `;
