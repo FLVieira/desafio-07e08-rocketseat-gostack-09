@@ -13,8 +13,8 @@ Se você estiver usando um dispositivo físico:
 # Instale o [json-server](https://github.com/typicode/json-server).
 
 # Vá no seu terminal e digite os seguintes comandos:
-1. git clone https://github.com/FLVieira/desafio-07-rocketseat-gostack-09.git
-2. cd desafio-07-rocketseat-gostack-09
+1. git clone https://github.com/FLVieira/desafio-07e08-rocketseat-gostack-09.git
+2. cd desafio-07e08-rocketseat-gostack-09
 3. json-server --host ENDEREÇO_IPV4 server.json -p 3001
 4. yarn 
 5. yarn react-native start
